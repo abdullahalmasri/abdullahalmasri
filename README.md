@@ -7,7 +7,7 @@
 <p align="center">
 <img src="https://64.media.tumblr.com/c7890e380e36fdf65856176da379247b/tumblr_inline_ptm1dj3OQ41txlwvy_500.gif"  width="10%">
 <br>
-you are under my grnjtsu <br>
+<ins style="            background: radial-gradient(circle, rgb(248,3,3) 0%, rgb(7,65,255) 100%);"><b><em>you are under my genjutsu *.*</em></b></ins> <br>
 <img src="https://i.pinimg.com/originals/5e/f4/b3/5ef4b3ae276231a4138ffd021764ae4d.gif" width="10%">
 </p>
 
