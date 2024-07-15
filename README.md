@@ -46,7 +46,7 @@ you are under my grnjtsu <br>
 <!-- GitHub Stats -->
 <h2 align="center">GitHub Stats</h2>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&theme=dark" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=abdullah&show_icons=true&theme=dark" alt="GitHub Stats"/>
 </p>
 
 <!-- Visitors Count -->
