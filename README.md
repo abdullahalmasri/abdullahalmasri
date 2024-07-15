@@ -11,12 +11,16 @@ you are under my grnjtsu <br>
 <img src="https://i.pinimg.com/originals/5e/f4/b3/5ef4b3ae276231a4138ffd021764ae4d.gif" width="10%">
 </p>
 
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
-[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
-[![PyPI download day](https://img.shields.io/pypi/dd/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
-[![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/stargazers/)
+<div align="center">
+
+[<img alt="Ask Me Anything !" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"/>](https://GitHub.com/Naereen/ama)
+[<img alt="made-with-Markdown" src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg"/>](http://commonmark.org)
+[<img alt="PyPI download day" src="https://img.shields.io/pypi/dd/ansicolortags.svg"/>](https://pypi.python.org/pypi/ansicolortags/)
+[<img alt="Bash Shell" src="https://badges.frapsoft.com/bash/v1/bash.png?v=103"/>](https://github.com/ellerbrock/open-source-badges/)
+[<img alt="GitHub license" src="https://img.shields.io/github/license/Naereen/StrapDown.js.svg"/>](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
+[<img alt="GitHub stars" src="https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&amp;label=Star&amp;maxAge=2592000"/>](https://GitHub.com/Naereen/StrapDown.js/stargazers/)
+
+</div>
 <!-- Social Media Links -->
 <p align="center">
     <a href="https://www.linkedin.com/in/abdullah-al-masri-0556191a5/" target="blank">
